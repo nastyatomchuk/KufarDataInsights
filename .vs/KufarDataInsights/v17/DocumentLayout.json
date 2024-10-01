@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nasti\\Desktop\\KufarDataInsights\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51F729EE-5403-46A4-B63A-458B2C6A4A89}|KufarApartmentFinder\\KufarApartmentFinder.csproj|c:\\users\\nasti\\desktop\\kufardatainsights\\kufarapartmentfinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F729EE-5403-46A4-B63A-458B2C6A4A89}|KufarApartmentFinder\\KufarApartmentFinder.csproj|solutionrelative:kufarapartmentfinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EED9C56-112D-43B0-BAF4-AD91E8E8254A}|KufarDataInsights\\KufarDataInsights.csproj|c:\\users\\nasti\\desktop\\kufardatainsights\\kufardatainsights\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EED9C56-112D-43B0-BAF4-AD91E8E8254A}|KufarDataInsights\\KufarDataInsights.csproj|solutionrelative:kufardatainsights\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BDCB0B-EFDC-4FAA-9B26-33BB2A36C791}|TestProject1\\TestProject1.csproj|c:\\users\\nasti\\desktop\\kufardatainsights\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BDCB0B-EFDC-4FAA-9B26-33BB2A36C791}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EED9C56-112D-43B0-BAF4-AD91E8E8254A}|KufarDataInsights\\KufarDataInsights.csproj|c:\\users\\nasti\\desktop\\kufardatainsights\\kufardatainsights\\apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EED9C56-112D-43B0-BAF4-AD91E8E8254A}|KufarDataInsights\\KufarDataInsights.csproj|solutionrelative:kufardatainsights\\apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 353,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nasti\\Desktop\\KufarDataInsights\\KufarApartmentFinder\\Program.cs",
+              "RelativeDocumentMoniker": "KufarApartmentFinder\\Program.cs",
+              "ToolTip": "C:\\Users\\nasti\\Desktop\\KufarDataInsights\\KufarApartmentFinder\\Program.cs",
+              "RelativeToolTip": "KufarApartmentFinder\\Program.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAA0wE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T21:16:06.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\nasti\\Desktop\\KufarDataInsights\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\nasti\\Desktop\\KufarDataInsights\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T21:05:10.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Apartment.cs",
+              "DocumentMoniker": "C:\\Users\\nasti\\Desktop\\KufarDataInsights\\KufarDataInsights\\Apartment.cs",
+              "RelativeDocumentMoniker": "KufarDataInsights\\Apartment.cs",
+              "ToolTip": "C:\\Users\\nasti\\Desktop\\KufarDataInsights\\KufarDataInsights\\Apartment.cs",
+              "RelativeToolTip": "KufarDataInsights\\Apartment.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T21:02:07.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nasti\\Desktop\\KufarDataInsights\\KufarDataInsights\\Program.cs",
+              "RelativeDocumentMoniker": "KufarDataInsights\\Program.cs",
+              "ToolTip": "C:\\Users\\nasti\\Desktop\\KufarDataInsights\\KufarDataInsights\\Program.cs",
+              "RelativeToolTip": "KufarDataInsights\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:35:36.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1482,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1482,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
